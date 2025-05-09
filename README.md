@@ -1,10 +1,10 @@
-# 📦 Pydantic Example Project
+#  Pydantic Example Project
 
 This project demonstrates the basic usage of **Pydantic**, a Python library for **data validation and settings management** using Python type annotations.
 
 ---
 
-## 🔍 What is Pydantic?
+##  What is Pydantic?
 
 **Pydantic** is a Python library that uses **type hints** to:
 - Parse and validate data at runtime
